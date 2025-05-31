@@ -1,0 +1,66 @@
+import random
+
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        last = self.head
+        while last.next:
+            last = last.next
+        last.next = new_node
+
+    def display(self):
+        current = self.head
+        while current:
+            print(current.data, end=" -> ")
+            current = current.next
+        print("None")
+
+    @staticmethod
+    def addTwoNumbers(l1, l2):
+        p1 = l1.head
+        p2 = l2.head
+        carry = 0
+        result = LinkedList()
+
+        while p1 or p2 or carry:
+            val1 = p1.data if p1 else 0
+            val2 = p2.data if p2 else 0
+
+            total = val1 + val2 + carry
+            carry = total // 10
+            result.append(total % 10)
+
+            if p1: p1 = p1.next
+            if p2: p2 = p2.next
+
+        return result
+
+# ----------- Example Usage -----------
+if __name__ == "__main__":
+    ll1 = LinkedList()
+    ll2 = LinkedList()
+
+    # Random linked lists of 5 digits
+    for _ in range(5):
+        ll1.append(random.randint(0, 9))
+        ll2.append(random.randint(0, 9))
+
+    print("List 1:")
+    ll1.display()
+    print("List 2:")
+    ll2.display()
+
+    print("Result (Sum):")
+    result = LinkedList.addTwoNumbers(ll1, ll2)
+    result.display()
