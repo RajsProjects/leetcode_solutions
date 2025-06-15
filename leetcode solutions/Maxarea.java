@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class solution {
+public class Maxarea {
      public int maxArea(int[] height) {
             int maxArea = 0;
             int left = 0;
