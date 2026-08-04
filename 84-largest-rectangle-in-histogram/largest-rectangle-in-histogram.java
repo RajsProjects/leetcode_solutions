@@ -1,41 +1,34 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-
-        int[] prev = new int[n];
-        int[] next = new int[n];
-
         Deque<Integer> stack = new ArrayDeque<>();
-
-        // Next Smaller Element (Right -> Left)
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
-            }
-
-            next[i] = stack.isEmpty() ? n : stack.peek();
-            stack.push(i);
-        }
-
-        stack.clear();
-
-        // Previous Smaller Element (Left -> Right)
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
-            }
-
-            prev[i] = stack.isEmpty() ? -1 : stack.peek();
-            stack.push(i);
-        }
-
         int maxArea = 0;
 
-        // Calculate maximum area
-        for (int i = 0; i < n; i++) {
-            int width = next[i] - prev[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
+        // Notice i <= n (one extra iteration)
+        for (int i = 0; i <= n; i++) {
+
+            // Virtual bar of height 0 at the end
+            int currentHeight = (i == n) ? 0 : heights[i];
+
+            while (!stack.isEmpty() && heights[stack.peek()] >= currentHeight) {
+
+                // Bar whose rectangle is ending
+                int top = stack.pop();
+
+                int height = heights[top];
+
+                // Previous Smaller Index
+                int prev = stack.isEmpty() ? -1 : stack.peek();
+
+                // Next Smaller Index
+                int next = i;
+
+                int width = next - prev - 1;
+
+                maxArea = Math.max(maxArea, height * width);
+            }
+
+            stack.push(i);
         }
 
         return maxArea;
