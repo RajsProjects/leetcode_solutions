@@ -1,6 +1,10 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
 
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
+            return 0;
+        }
+
         int rows = matrix.length;
         int cols = matrix[0].length; 
 
@@ -30,10 +34,7 @@ class Solution {
         // Notice i <= n (one extra iteration)
         for (int i = 0; i <= n; i++) {
 
-            // Virtual bar of height 0 at the end
-            int currentHeight = (i == n) ? 0 : heights[i];
-
-            while (!stack.isEmpty() && heights[stack.peek()] >= currentHeight) {
+            while (!stack.isEmpty() && (i == n || heights[stack.peek()] >= heights[i])) {
 
                 // Bar whose rectangle is ending
                 int top = stack.pop();
