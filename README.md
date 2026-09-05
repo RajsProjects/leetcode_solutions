@@ -24,6 +24,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
