@@ -46,6 +46,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -62,6 +63,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
