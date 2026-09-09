@@ -18,6 +18,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -35,6 +36,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
