@@ -17,6 +17,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -107,6 +109,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
