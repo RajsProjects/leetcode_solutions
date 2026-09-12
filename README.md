@@ -17,6 +17,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Array
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -126,4 +128,12 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
