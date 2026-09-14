@@ -18,6 +18,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -38,6 +39,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -114,6 +116,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
