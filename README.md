@@ -58,6 +58,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/RajsProjects/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -155,4 +156,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
