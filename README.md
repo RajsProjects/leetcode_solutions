@@ -92,6 +92,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -114,6 +115,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
