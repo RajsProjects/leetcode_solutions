@@ -20,6 +20,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0011-container-with-most-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -124,6 +126,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -180,4 +183,12 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
