@@ -17,6 +17,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -119,6 +120,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -131,6 +133,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
