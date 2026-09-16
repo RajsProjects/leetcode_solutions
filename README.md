@@ -28,6 +28,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -191,4 +192,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
