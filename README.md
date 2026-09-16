@@ -46,6 +46,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -101,6 +102,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -198,6 +200,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Combinatorics
 |  |
