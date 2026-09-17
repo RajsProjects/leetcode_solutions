@@ -31,6 +31,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -52,6 +53,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -82,6 +84,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RajsProjects/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -184,6 +187,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -202,6 +206,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
