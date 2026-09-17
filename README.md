@@ -19,6 +19,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/RajsProjects/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RajsProjects/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
