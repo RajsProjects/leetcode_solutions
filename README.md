@@ -17,6 +17,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RajsProjects/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RajsProjects/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajsProjects/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -221,4 +223,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RajsProjects/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RajsProjects/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
