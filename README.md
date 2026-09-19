@@ -77,6 +77,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RajsProjects/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RajsProjects/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/RajsProjects/leetcode_solutions/tree/master/3870-count-commas-in-range) |
@@ -205,6 +206,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RajsProjects/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Stack
 |  |
 | ------- |
