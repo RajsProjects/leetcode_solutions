@@ -188,6 +188,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
@@ -214,6 +215,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
