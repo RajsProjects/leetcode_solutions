@@ -110,6 +110,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
@@ -211,6 +212,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -234,4 +236,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
