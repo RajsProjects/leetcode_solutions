@@ -35,6 +35,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -228,12 +229,14 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
