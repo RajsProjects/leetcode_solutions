@@ -61,6 +61,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -125,6 +126,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -170,6 +172,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -225,6 +228,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,4 +260,12 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
