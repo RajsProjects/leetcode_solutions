@@ -181,6 +181,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RajsProjects/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
@@ -197,6 +198,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
