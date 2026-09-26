@@ -160,6 +160,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -182,6 +183,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RajsProjects/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
