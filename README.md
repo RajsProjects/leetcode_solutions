@@ -134,6 +134,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -247,6 +248,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
