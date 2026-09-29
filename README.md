@@ -203,6 +203,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -217,6 +218,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -307,6 +309,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
