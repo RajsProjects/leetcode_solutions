@@ -25,7 +25,7 @@ class Solution {
 
         while(!queue.isEmpty()){
             int size = queue.size();
-            TreeNode current = root;
+            TreeNode current = new TreeNode();
 
             for(int i = 0; i < size; i++){
                 current = queue.poll();
