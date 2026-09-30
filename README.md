@@ -206,6 +206,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -213,6 +214,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -221,6 +223,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -314,6 +317,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Range Minimum/Maximum Query
