@@ -180,6 +180,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -219,6 +220,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -324,6 +326,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -336,4 +339,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
