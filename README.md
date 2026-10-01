@@ -29,6 +29,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -180,6 +181,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -219,6 +221,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -245,6 +248,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajsProjects/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -324,6 +328,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
