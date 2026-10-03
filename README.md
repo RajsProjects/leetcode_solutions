@@ -61,6 +61,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RajsProjects/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajsProjects/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -138,6 +139,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -336,6 +338,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0100-same-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajsProjects/leetcode_solutions/tree/master/0207-course-schedule) |
@@ -367,4 +370,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RajsProjects/leetcode_solutions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
