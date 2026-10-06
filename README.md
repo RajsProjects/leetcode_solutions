@@ -143,6 +143,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -290,6 +291,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -327,6 +329,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0022-generate-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
