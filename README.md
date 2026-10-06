@@ -33,6 +33,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0141-linked-list-cycle](https://github.com/RajsProjects/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -171,6 +173,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -206,6 +209,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -325,6 +329,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajsProjects/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -401,6 +406,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/RajsProjects/leetcode_solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -411,4 +417,9 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
