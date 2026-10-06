@@ -39,6 +39,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0724-find-pivot-index](https://github.com/RajsProjects/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/RajsProjects/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0835-image-overlap) |
+| [1046-last-stone-weight](https://github.com/RajsProjects/leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -397,6 +398,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/RajsProjects/leetcode_solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
