@@ -146,6 +146,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -358,6 +359,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -370,6 +372,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajsProjects/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Range Minimum/Maximum Query
