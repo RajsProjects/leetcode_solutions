@@ -191,6 +191,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RajsProjects/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -209,6 +210,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -266,6 +268,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Matrix
@@ -406,12 +409,14 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/RajsProjects/leetcode_solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
