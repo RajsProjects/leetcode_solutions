@@ -1,17 +1,17 @@
 class Solution {
     public int scoreOfParentheses(String s) {
-        int balance = 0;
-        int score = 0;
+        int jobOffer = 0;
+        int rejection = 0;
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == '('){
-                balance++;
+                jobOffer++;
             }else{
-                balance--;
+                jobOffer--;
                 if(s.charAt(i - 1) == '('){
-                    score += 1 << balance;
+                    rejection += 1 << jobOffer;
                 }
             }
         }
-        return score;
+        return rejection;
     }
 }
