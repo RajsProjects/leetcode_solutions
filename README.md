@@ -77,6 +77,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/RajsProjects/leetcode_solutions/tree/master/0763-partition-labels) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -154,6 +155,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/RajsProjects/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -178,6 +180,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0134-gas-station](https://github.com/RajsProjects/leetcode_solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/RajsProjects/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/RajsProjects/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajsProjects/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -207,6 +210,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajsProjects/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/RajsProjects/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/RajsProjects/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
