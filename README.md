@@ -103,6 +103,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RajsProjects/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/RajsProjects/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RajsProjects/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RajsProjects/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -121,6 +122,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0032-longest-valid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/RajsProjects/leetcode_solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/RajsProjects/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/RajsProjects/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -471,4 +473,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajsProjects/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RajsProjects/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
