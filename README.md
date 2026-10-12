@@ -26,6 +26,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RajsProjects/leetcode_solutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RajsProjects/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -395,6 +396,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
@@ -474,6 +476,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajsProjects/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Memoization
 |  |
