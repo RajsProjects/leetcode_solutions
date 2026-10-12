@@ -13,12 +13,6 @@ class Solution {
             }
         }
 
-        int result = 0;
-
-        for (int value : dp) {
-            result = Math.max(result, value);
-        }
-
-        return result;
+        return Arrays.stream(dp).max().getAsInt();
     }
 }
