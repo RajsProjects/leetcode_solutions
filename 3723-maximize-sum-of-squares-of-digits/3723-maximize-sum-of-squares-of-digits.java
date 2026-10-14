@@ -2,7 +2,7 @@ class Solution {
     public String maxSumOfSquares(int num, int sum) {
         StringBuilder score = new StringBuilder("");
 
-        if(num * 9 < sum || sum < 1){
+        if(num * 9 < sum){
             return "";
         }
 
