@@ -25,6 +25,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0039-combination-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/RajsProjects/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/RajsProjects/leetcode_solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RajsProjects/leetcode_solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
@@ -406,6 +407,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajsProjects/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/RajsProjects/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
