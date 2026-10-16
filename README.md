@@ -27,6 +27,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/RajsProjects/leetcode_solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/RajsProjects/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RajsProjects/leetcode_solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/RajsProjects/leetcode_solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -411,6 +412,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0022-generate-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RajsProjects/leetcode_solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/RajsProjects/leetcode_solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -501,4 +503,8 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RajsProjects/leetcode_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
