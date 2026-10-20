@@ -76,6 +76,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajsProjects/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3871-count-commas-in-range-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +235,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3483-unique-3-digit-even-numbers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +279,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajsProjects/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
