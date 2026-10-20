@@ -40,6 +40,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajsProjects/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RajsProjects/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0138-copy-list-with-random-pointer](https://github.com/RajsProjects/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajsProjects/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RajsProjects/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -383,6 +385,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RajsProjects/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Combinatorics
