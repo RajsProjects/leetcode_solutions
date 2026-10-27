@@ -7,17 +7,9 @@ class Solution {
         for(int i = 0; i <= n; i++){
             int current = (i == n) ? 0 : heights[i];
 
-            while(!stack.isEmpty() && current <= heights[stack.peek()]){
-                int top = stack.pop();
-
-                int height = heights[top];
-
-                int prev = stack.isEmpty() ? -1 : stack.peek();
-
-                int next = i;
-
-                int width = next - prev - 1;
-
+            while(!stack.isEmpty() && heights[stack.peek()] > current){
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
                 maxArea = Math.max(maxArea, height * width);
             }
             stack.push(i);
