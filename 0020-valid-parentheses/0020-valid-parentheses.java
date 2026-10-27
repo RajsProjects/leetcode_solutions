@@ -1,22 +1,30 @@
 class Solution {
     public boolean isValid(String s) {
-        Map<Character, Character> map = Map.of(
-            '(', ')',
-            '[', ']',
-            '{', '}'
-        );
-
-        Deque<Character> stack = new ArrayDeque<>();
-
-        for(char ch : s.toCharArray()){
-            if(map.containsKey(ch)){
-                stack.push(map.get(ch));
-            }else{
-                if(stack.isEmpty() || stack.pop() != ch){
-                    return false;
-                }
-            }
+        if(s.length() % 2 == 1){
+            return false;
         }
-        return stack.isEmpty();
+        return isValid(0, ' ', s.toCharArray()) >= 0;
+    }
+
+    public int isValid(int i, char last, char[] s){
+        if(i == s.length){
+            return i;
+        }
+        if(i > s.length){
+            return -1;
+        }
+
+        if(s[i] == '(' || s[i] == '[' || s[i] == '{'){
+            int next = isValid(i + 1, s[i], s);
+            return next < 0 ? -1 : isValid(next + 1, last, s);
+        }
+
+        if(s[i] == ')' && last == '('|| 
+           s[i] == ']' && last == '['|| 
+           s[i] == '}' && last == '{')
+        {
+            return i;
+        }
+        return -1;
     }
 }
