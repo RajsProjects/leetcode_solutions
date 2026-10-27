@@ -3,22 +3,27 @@ class Solution {
         int n = temperatures.length;
         int[] result = new int[n];
 
-        Deque<Integer> stack = new ArrayDeque<>();
+        int[] stack = new int[n];
+        int sp = -1;
 
-        for(int i = n - 1; i >= 0; i--){
+        for (int i = n - 1; i >= 0; i--) {
             int current = temperatures[i];
 
-            while(!stack.isEmpty() && current >= temperatures[stack.peek()]){
-                stack.pop();
+            // Remove days with temperatures less than
+            // or equal to the current temperature.
+            while (sp >= 0 && current >= temperatures[stack[sp]]) {
+                sp--;
             }
 
-            if(stack.isEmpty()){
-                result[i] = 0;
-            }else{
-                result[i] = stack.peek() - i;
+            // Find the nearest warmer day.
+            if (sp >= 0) {
+                result[i] = stack[sp] - i;
             }
-            stack.push(i);
+
+            // Push the current day's index.
+            stack[++sp] = i;
         }
+
         return result;
     }
 }
