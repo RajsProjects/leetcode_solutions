@@ -1,7 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-
-        Map<Character, Character> pairs = Map.of(
+        Map<Character, Character> map = Map.of(
             '(', ')',
             '[', ']',
             '{', '}'
@@ -9,16 +8,15 @@ class Solution {
 
         Deque<Character> stack = new ArrayDeque<>();
 
-        for(char c : s.toCharArray()){
-            if(pairs.containsKey(c)){
-                stack.push(pairs.get(c));
-            } else {
-                if(stack.isEmpty() || stack.pop() != c){
+        for(char ch : s.toCharArray()){
+            if(map.containsKey(ch)){
+                stack.push(map.get(ch));
+            }else{
+                if(stack.isEmpty() || stack.pop() != ch){
                     return false;
                 }
             }
         }
-
         return stack.isEmpty();
     }
 }
