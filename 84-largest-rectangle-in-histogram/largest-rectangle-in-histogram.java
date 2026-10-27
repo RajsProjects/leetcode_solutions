@@ -1,33 +1,17 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        Deque<Integer> stack = new ArrayDeque<>();
         int maxArea = 0;
+        Deque<Integer> stack = new ArrayDeque<>();
 
-        // Notice i <= n (one extra iteration)
-        for (int i = 0; i <= n; i++) {
+        for(int i = 0; i <= n; i++){
+            int current = (i == n) ? 0 : heights[i];
 
-            // Virtual bar of height 0 at the end
-            int currentHeight = (i == n) ? 0 : heights[i];
-
-            while (!stack.isEmpty() && heights[stack.peek()] >= currentHeight) {
-
-                // Bar whose rectangle is ending
-                int top = stack.pop();
-
-                int height = heights[top];
-
-                // Previous Smaller Index
-                int prev = stack.isEmpty() ? -1 : stack.peek();
-
-                // Next Smaller Index
-                int next = i;
-
-                int width = next - prev - 1;
-
+            while(!stack.isEmpty() && heights[stack.peek()] > current){
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
                 maxArea = Math.max(maxArea, height * width);
             }
-
             stack.push(i);
         }
 
