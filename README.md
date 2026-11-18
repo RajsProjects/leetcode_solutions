@@ -210,6 +210,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RajsProjects/leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RajsProjects/leetcode_solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
