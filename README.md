@@ -323,6 +323,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -339,6 +340,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajsProjects/leetcode_solutions/tree/master/0207-course-schedule) |
@@ -357,6 +359,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -412,6 +415,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0042-trapping-rain-water](https://github.com/RajsProjects/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/RajsProjects/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/RajsProjects/leetcode_solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
