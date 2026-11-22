@@ -60,6 +60,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [1872-stone-game-viii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajsProjects/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajsProjects/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RajsProjects/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -108,6 +109,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RajsProjects/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajsProjects/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajsProjects/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -325,6 +327,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajsProjects/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RajsProjects/leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -358,6 +361,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajsProjects/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
