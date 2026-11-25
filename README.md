@@ -198,6 +198,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0125-valid-palindrome](https://github.com/RajsProjects/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RajsProjects/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RajsProjects/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RajsProjects/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajsProjects/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RajsProjects/leetcode_solutions/tree/master/0763-partition-labels) |
@@ -326,6 +327,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RajsProjects/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajsProjects/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -345,6 +347,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0200-number-of-islands](https://github.com/RajsProjects/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajsProjects/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RajsProjects/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajsProjects/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RajsProjects/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RajsProjects/leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -362,6 +365,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0144-binary-tree-preorder-traversal](https://github.com/RajsProjects/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajsProjects/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajsProjects/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RajsProjects/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajsProjects/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RajsProjects/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RajsProjects/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -491,6 +495,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [0046-permutations](https://github.com/RajsProjects/leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RajsProjects/leetcode_solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RajsProjects/leetcode_solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/RajsProjects/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/RajsProjects/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
