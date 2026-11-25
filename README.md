@@ -86,6 +86,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RajsProjects/leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RajsProjects/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/RajsProjects/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RajsProjects/leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajsProjects/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsProjects/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -406,6 +408,7 @@ I commit at least one solution every day and strive to write clean, efficient, a
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajsProjects/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajsProjects/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsProjects/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -609,4 +612,16 @@ I commit at least one solution every day and strive to write clean, efficient, a
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RajsProjects/leetcode_solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RajsProjects/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
